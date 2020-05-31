@@ -1,8 +1,8 @@
 site_name: CISSP学习指南
 theme:
   name: material
-extra:
   palette:
-    primary: 'Cyan'
-    accent: 'Pink'
+    primary: deep orange
+    accent: pink
+
 
