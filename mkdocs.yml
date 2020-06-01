@@ -2,7 +2,7 @@ site_name: CISSP学习指南
 theme:
   name: material
   palette:
-    primary: deep orange
+    primary: blue grey
     accent: pink
 
 
